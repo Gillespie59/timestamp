@@ -1,4 +1,7 @@
 # timestamp
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/angular-builders/timestamp.svg)](https://greenkeeper.io/)
+
 Timestamp builder for Angular build facade.  
 This builder is an example from the Medium article [Angular CLI 6 under the hood — builders demystified](https://medium.com/@meltedspark/angular-cli-6-under-the-hood-builders-demystified-f0690ebcf01).
 
